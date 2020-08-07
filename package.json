@@ -1,0 +1,11 @@
+{
+  "name": "zoomclone",
+  "version": "1.0.0",
+  "description": "Video calling and chatting app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Manan Desai",
+  "license": "ISC"
+}
